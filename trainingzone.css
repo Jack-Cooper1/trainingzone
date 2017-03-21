@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:bisque;
+}
+.indhistory{
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-right: 900px;
+	margin-bottom: 20px;
+	font-size: x-large;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	background-color: lightgoldenrodyellow
+}
+img{
+	margin-bottom: 20px;
+	margin-left:1150px;
+	margin-top: -220px;
+	margin-right: 20px;
+	padding-bottom: 20px;
+}
+.lecclash{
+	font-size: large;
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana," sans-serif";
+	margin-top: 100px;
+	}
+h1{
+	text-decoration: underline;
+	text-align: center;
+	color: orangered;
+	font-weight: bolder;
+	font-size: 60px;
+	}
+nav{
+	text-align:center;
+	font-size: 35px;
+}
+#ull{
+	list-style-type:square;
+}
+.contact{
+	list-style-type:none; 
+	text-align: right;
+	margin-right: 30px;
+	}
+#trainsign{ margin-bottom: 0px;
+	margin-left:100px;
+	margin-top: 20px;
+	margin-right: 100px;
+	padding-bottom: 0px;
+}
+#cfora {
+	margin-top: 50px;
+	margin-left: 400px;
+	margin-right: 400px;
+	font-size: xx-large;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	background-color: lightgoldenrodyellow;
+	text-align: center;
+}
+#number { 
+	text-decoration: underline;
+	font-weight: bolder;}
+.work911{
+	text-align: justify;
+	font-size: inherit;
+}
+	
